@@ -36,13 +36,4 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto Animation)
-👉 Setup required (only once):  
-1. Go to: https://github.com/Platane/snk  
-2. Click **Fork**  
-3. Go to **Actions tab → Enable workflows**  
-
-Then add this line below after setup:
-
-```md
 ![Snake animation](https://github.com/sarthakJain1008/sarthakJain1008/blob/output/github-contribution-grid-snake.svg)
