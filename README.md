@@ -16,3 +16,40 @@
 
 ## 🧠 Tech Stack
 ![Skills](https://skillicons.dev/icons?i=python,java,sql,js,react,nodejs,aws)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=FF00FF&center=true&vCenter=true&lines=Sarthak+Jain;Building+the+Future;AI+%2B+Data+%2B+Startups">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+## 🚀 About Me
+- 🎓 CSE Student @ Bennett University  
+- 📊 Data Analytics Enthusiast  
+- 🚀 Building Homstel Startup  
+
+---
+
+## 📊 GitHub Stats
+(put stats here)
+
+---
+
+## 💻 Tech Stack
+(put skills here)
+
+---
+
+## 🔥 Projects
+- Crop Recommendation System 🌱
+- Real-Time Vehicle Tracking 🚗
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn  
+- Email
+
+  
