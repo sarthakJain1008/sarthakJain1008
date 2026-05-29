@@ -8,20 +8,33 @@
 
 ---
 
-## 🚀 About Me
+⚡ "If it takes more than three clicks, it should be automated."
 
-I am a Software Development Engineer (SDE) specializing in Data Science Engineering, backend automation architectures, and scalable system design (LLD & HLD). 
-I architect end-to-end data pipelines
-, integrate intelligent automation systems, and build robust software infrastructure designed to solve complex operational bottlenecks. 
+Hey, I'm Sarthak.
+I am an SDE specializing in Data Science Engineering and core system design (LLD/HLD).
+I don't just write code; I engineer systems that eliminate manual overhead, orchestrate data at scale, and solve complex operational bottlenecks. 
 
-Whether partnering with independent clients or engineering enterprise solutions, my focus is on delivering high-performance, resilient systems that eliminate manual overhead and optimize data workflows.
+From scaling parallel web scrapers across hundreds of thousands of data points to building secure, asynchronous backend pipelines, I focus on heavy-lifting execution.
+Give me a complex system problem, and I will hunt down every single edge case to crack it.
 
-* [cite_start]🛠️ **Core Expertise:** Backend Engineering (Java/Spring Boot) [cite: 14, 27][cite_start], AI/ML & Automation Workflows [cite: 6, 27][cite_start], Data Pipeline Architecture [cite: 7][cite_start], and Systems Design.
-* [cite_start]💼 **Proven Delivery:** Engineered Meta Graph API lead ingestion systems reducing manual data entry to 0% [cite: 14][cite_start], built parallelized scrapers processing over 290,000+ data records [cite: 30][cite_start], and deployed automated processing layers with 98%+ parsing accuracy[cite: 23].
-* [cite_start]⚙️ **Engineering Philosophy:** Write clean, asynchronous code [cite: 16][cite_start], secure token-based access layers[cite: 17], and engineer flexible architectures that scale seamlessly under heavy production loads.
 ---
 
-## 🧠 Tech Stack
+🛠️ What I Bring to the Table
+
+* Asynchronous Backend Architectures:** Expert at building resilient, multi-threaded pipelines (Java/Spring Boot) that handle live API ingestion and zero-latency data synchronization.
+* Intelligent Automation:** Designing production-grade data scraping infrastructures and automated parsing engines with 98%+ data accuracy.
+* Data Science & Systems Engineering:** Deeply focused on writing clean, scalable Low-Level and High-Level Designs (LLD/HLD) integrated with robust data processing layers.
+
+---
+
+🚀 Production Highlights
+
+* 0% Manual Entry:** Engineered an end-to-end Meta Graph API pipeline using Spring Scheduler to completely automate CRM lead ingestion.
+* 290K+ Scalable Scraping:** Built a high-performance, parallelized Node.js/Apify crawling system handling over 5,000 deep web sub-categories.
+* 500%+ Acceleration:** Deployed custom Python parsing workflows to automate document tracking and email monitoring pipelines.
+---
+
+🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,aws,git,github,gcp&theme=dark" />
@@ -29,7 +42,7 @@ Whether partnering with independent clients or engineering enterprise solutions,
 
 ---
 
-## 📊 GitHub Dashboard
+📊 GitHub Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarthakJain1008&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
