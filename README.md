@@ -10,7 +10,9 @@
 
 ## 🚀 About Me
 
-[cite_start]I am a Software Development Engineer (SDE) specializing in Data Science Engineering, backend automation architectures, and scalable system design (LLD & HLD). [cite_start]I architect end-to-end data pipelines[cite: 7], integrate intelligent automation systems, and build robust software infrastructure designed to solve complex operational bottlenecks. 
+I am a Software Development Engineer (SDE) specializing in Data Science Engineering, backend automation architectures, and scalable system design (LLD & HLD). 
+I architect end-to-end data pipelines
+, integrate intelligent automation systems, and build robust software infrastructure designed to solve complex operational bottlenecks. 
 
 Whether partnering with independent clients or engineering enterprise solutions, my focus is on delivering high-performance, resilient systems that eliminate manual overhead and optimize data workflows.
 
