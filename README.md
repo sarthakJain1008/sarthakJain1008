@@ -50,8 +50,3 @@ Give me a complex system problem, and I will hunt down every single edge case to
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakJain1008&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakJain1008&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=220&section=header&text=Sarthak%20Jain&fontSize=45&animation=fadeIn&fontAlignY=35"/>
-</p>
