@@ -10,7 +10,7 @@
 
 ⚡ "If it takes more than three clicks, it should be automated."
 
-Hey, I'm Sarthak
+Hey, I'm Sarthak,
 I am an SDE specializing in Data Science Engineering and core system design (LLD/HLD).
 I don't just write code; I engineer systems that eliminate manual overhead, orchestrate data at scale, and solve complex operational bottlenecks. 
 
