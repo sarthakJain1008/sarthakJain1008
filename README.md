@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Sarthak+Jain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Sarthak+Jain;Building+AI+%26+Product+Solutions" alt="Typing SVG" />
 </p>
 
 ---
@@ -54,8 +54,4 @@ Give me a complex system problem, and I will hunt down every single edge case to
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakJain1008&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=220&section=header&text=Sarthak%20Jain&fontSize=45&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=CSE+Student+%40+Bennett+University;Aspiring+Data+Analyst;Founder+%40+Homstel+(Startup);Building+AI+%26+Product+Solutions" alt="Typing SVG" />
 </p>
