@@ -19,7 +19,22 @@ From scaling parallel web scrapers across hundreds of thousands of data points t
 Give me a complex system problem, and I will hunt down every single edge case to crack it.
 
 ---
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sarthakJain1008/sarthakJain1008/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sarthakJain1008/sarthakJain1008/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/sarthakJain1008/sarthakJain1008/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
+---
 🛠️ What I Bring to the Table
 
 * Asynchronous Backend Architectures:** Expert at building resilient, multi-threaded pipelines (Java/Spring Boot) that handle live API ingestion and zero-latency data synchronization.
