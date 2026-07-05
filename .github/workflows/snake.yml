@@ -6,10 +6,6 @@ on:
 
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
 permissions:
   contents: write
 
@@ -22,7 +18,6 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: sarthakJain1008
-
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -30,7 +25,7 @@ jobs:
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
-          branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
